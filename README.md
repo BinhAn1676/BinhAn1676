@@ -18,21 +18,9 @@
 
 ## > whoami
 
-```
-➜ ~ whoami
-
-  name         : Nguyễn Bình An
-  alias        : BinhAn1676
-  role         : Java Backend Developer
-  location     : Hà Nội, Vietnam 🇻🇳
-  experience   : ~2.5 years in fintech / banking
-  education    : KMA | TOEIC: 955
-  interests    : [ Developer Tooling, AI, Networking ]
-  learning     : [ System Design, Cloud-platform, Japanese ]
-  goal         : "Chilling"
-
-➜ ~
-```
+<div align="center">
+  <img src="./whoami.svg" alt="whoami" />
+</div>
 
 ---
 
