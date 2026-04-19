@@ -1,10 +1,7 @@
-<!-- SPARKLE BANNER -->
-<!-- Dùng ảnh PNG tự tạo hoặc capsule-render thay thế nếu muốn animated text -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e94560,100:c720ff&height=220&section=header&text=Nguy%E1%BB%85n%20B%C3%ACnh%20An&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20Hanoi%2C%20Vietnam&descAlignY=60&descColor=a8b2d8" />
 </div>
 
-<!-- BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/binhan1676/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,42 +18,20 @@
 
 ## > whoami
 
-```java
-public class BinhAn extends BackendDeveloper {
+```
+➜ ~ whoami
 
-    @Override
-    public String name()       { return "Nguyễn Bình An"; }
+  name         : Nguyễn Bình An
+  alias        : BinhAn1676
+  role         : Java Backend Developer
+  location     : Hà Nội, Vietnam 🇻🇳
+  experience   : ~2.5 years in fintech / banking
+  education    : KMA | TOEIC: 955
+  interests    : [ Developer Tooling, AI, Networking ]
+  learning     : [ System Design, Cloud-platform, Japanese ]
+  goal         : "Chilling"
 
-    @Override
-    public String alias()      { return "annb / annb-dev"; }
-
-    @Override
-    public String role()       { return "Java Backend Developer"; }
-
-    @Override
-    public String location()   { return "Hà Nội, Vietnam 🇻🇳"; }
-
-    @Override
-    public String experience() { return "~2.5 years"; }
-
-    @Override
-    public String education()    { return "KMA | TOEIC: 955"; }
-
-    @Override
-    public String[] interests() {
-        return new String[]{"Developer Tooling", "AI ", "Networking"};
-    }
-
-    @Override
-    public String[] learning() {
-        return new String[]{"System Design", "Cloud-platform", "Japanese"};
-    }
-
-    @Override
-    public String goal() {
-        return "Chilling";
-    }
-}
+➜ ~
 ```
 
 ---
@@ -115,9 +90,12 @@ public class BinhAn extends BackendDeveloper {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake.svg" />
-    <img alt="snake animation" src="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake.svg" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BinhAn1676/BinhAn1676/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BinhAn1676/BinhAn1676/output/dist/snake.svg" />
+    <img alt="snake animation"
+      src="https://raw.githubusercontent.com/BinhAn1676/BinhAn1676/output/dist/snake.svg" />
   </picture>
 </div>
 
