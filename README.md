@@ -6,13 +6,13 @@
 
 <!-- BADGES -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/binhan1676/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nguyenbinhankma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=e94560&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=BinhAn1676&style=for-the-badge&color=e94560&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -101,12 +101,12 @@ public class BinhAn extends BackendDeveloper {
 ## 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=e94560&icon_color=e94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=e94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BinhAn1676&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=e94560&icon_color=e94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinhAn1676&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=e94560"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinhAn1676&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
 </div>
 
 ---
@@ -115,9 +115,9 @@ public class BinhAn extends BackendDeveloper {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/dist/snake.svg" />
-    <img alt="snake animation" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/dist/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake.svg" />
+    <img alt="snake animation" src="https://github.com/BinhAn1676/BinhAn1676/blob/output/dist/snake.svg" />
   </picture>
 </div>
 
@@ -126,7 +126,7 @@ public class BinhAn extends BackendDeveloper {
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinhAn1676&theme=tokyo-night&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&hide_border=true"/>
 </div>
 
 ---
