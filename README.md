@@ -89,7 +89,7 @@
 ## 🐍 Commit Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BinhAn1676/BinhAn1676/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/BinhAn1676/BinhAn1676/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
